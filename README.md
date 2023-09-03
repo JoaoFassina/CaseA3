@@ -11,5 +11,5 @@ Dentro do notebook Análise, temos:
 
 Já no notebook Modelo_QNA temos um modelo simples de perguntas e respostas cosntruído usando langchain e openAI.
 
-E, por fim, no notebook gpt_llm_trainer_Finetune_Atentimento realizamos o fine tuning do modelo, originalmente disponível em https://github.com/mshumer/gpt-llm-trainer.
+E, por fim, no notebook gpt_llm_trainer_Finetune_Atentimento, originalmente disponível em https://github.com/mshumer/gpt-llm-trainer. realizamos o fine tuning do modelo Llama 2-7B-chat.
 Sua execução é independente do resto e pode ser feita utilizando o free tier do Google Colab.
